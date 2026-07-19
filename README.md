@@ -23,11 +23,11 @@
 
 ## 展示
 
-![pic](.meta\picture1.png)
+![pic](.meta/picture1.png)
 
-![pic](.meta\picture2.png)
+![pic](.meta/picture2.png)
 
-![pic](.meta\picture3.png)
+![pic](.meta/picture3.png)
 
 ## 遊戲系統
 
