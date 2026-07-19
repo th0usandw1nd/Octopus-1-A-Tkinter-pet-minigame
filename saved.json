@@ -1,0 +1,53 @@
+{
+    "petName": "章魚一號",
+    "hungry": 12,
+    "emotion": 8,
+    "health": 10,
+    "day": 11,
+    "is_sick": false,
+    "money": 140,
+    "stamina": 12,
+    "max_stamina": 12,
+    "food": {
+        "飼料1": {
+            "quantity": 0,
+            "price": 5,
+            "hunger": 5,
+            "happy": 5,
+            "cure": 0,
+            "pic": "food_1"
+        },
+        "飼料2": {
+            "quantity": 1,
+            "price": 10,
+            "hunger": 10,
+            "happy": 5,
+            "cure": 0,
+            "pic": "food_2"
+        },
+        "飼料3": {
+            "quantity": 0,
+            "price": 20,
+            "hunger": 20,
+            "happy": 20,
+            "cure": 0,
+            "pic": "food_3"
+        },
+        "藥品1": {
+            "quantity": 0,
+            "price": 50,
+            "hunger": 0,
+            "happy": 0,
+            "cure": 10,
+            "pic": "med_1"
+        },
+        "藥品2": {
+            "quantity": 0,
+            "price": 100,
+            "hunger": 0,
+            "happy": -10,
+            "cure": 50,
+            "pic": "med_2"
+        }
+    }
+}
